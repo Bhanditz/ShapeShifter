@@ -39,7 +39,7 @@
     "csso": "^3.3.1",
     "element-resize-detector": "^1.1.12",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "js-yaml": "^3.10.0",
     "jszip": "^3.1.4",
     "lodash": "^4.17.4",
